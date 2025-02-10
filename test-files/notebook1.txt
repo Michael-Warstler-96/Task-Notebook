@@ -1,0 +1,53 @@
+! School
+# CSC 216,35
+* Read Project 2 Requirements
+Read Project 2 requirements 
+(https://pages.github.ncsu.edu/engr-csc216-staff/CSC216-SE-Materials/projects/project2/project2-part1.html)
+and identify candidate classes and methods.
+* Create CRC Cards,active
+Identify the key classes and create CRC cards. Note
+responsibilities, collaborators, and possible state.
+* Transfer CRC Cards to UMLetino
+Start creating a UML class diagram from the requirements
+* Download design proposal and rational template
+See (https://pages.github.ncsu.edu/engr-csc216-staff/CSC216-SE-Materials/projects/project2/project2-part1.html)
+for template link
+* Write design proposal and rationale
+Start with UML class diagram description. Incorporate feedback 
+from Project 1.
+* Identify 5 system tests
+Consider 5 major paths through the system when working with
+notebooks, task lists, and tasks.  How would I use the system
+to keep track of my tasks?
+* Watch lecture,recurring,active
+Keep up with lectures each week (watch videos if needed)
+* Complete exercises,recurring
+Complete exercises by Sunday at 11:45pm each week
+* Complete quizzes,recurring
+Weekly quizzes open Thursdays at 3pm and close Mondays at 11:30am
+(all times Eastern)
+# CSC 226,23
+* Homework 7
+- Review the assignment
+- Schedule time to work on the assignment
+Don't forget to submit!
+* Homework 8
+- Review the assignment
+- Schedule time to work on the assignment
+Don't forget to submit!
+* Homework 9
+- Review the assignment
+- Schedule time to work on the assignment
+Don't forget to submit!
+* Homework 10
+- Review the assignment
+- Schedule time to work on the assignment
+Don't forget to submit!
+* Go to lecture,recurring,active
+Watch lectures associated with HW7 by March 31
+# Habits,0
+* Exercise,active,recurring
+Exercise every day. 
+Alternate between cardio and weight training
+* Floss,recurring,active
+Floss after brushing my teeth in the evening! 
